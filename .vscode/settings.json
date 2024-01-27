@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "files.exclude": {
+        "git init": true
+    },
+    "terminal.integrated.tabs.defaultIcon": "github"
+}
